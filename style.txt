@@ -1,0 +1,45 @@
+body{
+        front-family:Arial,Times,Sans-serif;
+        background-colour:grey;
+    }
+header{
+           background-colour:black;
+		 colour:white;
+		 width:80%;
+		 margin-left:auto;
+		 margin-right:auto;
+		 text-allign:center;
+		 padding:10px;
+        }
+h1{
+    line-height:5px;
+    front-size:1.2em;
+}
+hgroup h1{
+   front-size:1.2em;
+}
+hgroup h2{
+   front-size:1.2em;
+}
+hgroup{
+  width:70%;
+  float:left;
+}
+section{
+	     background-colour:white;
+		 width:80%;
+		 margin-left:auto;
+		 margin-right:auto;
+		 border-width:5px;
+		 border-style:solid;
+		 border-colour:black;
+		 padding:5px;
+       }
+footer{
+	     background-colour:black;
+		 colour:white;
+		 width:80%;
+		 margin-left:auto;
+		 margin-right:auto;
+		 padding:10px;
+     }
